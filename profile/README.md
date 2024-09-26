@@ -1,4 +1,4 @@
-Hey, this is Tvativers 👋
+## Hey peps 👋
 
 ![Banner Image](../assets//banner.jpg)
 
